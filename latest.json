@@ -1,8 +1,8 @@
 {
   "versionName": "0.6.0",
   "versionCode": 6,
-  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.0/app-release.apk",
-  "sha256": "a460904e824100e3ee86bdb857182c45797c31b91bf7a191ab58fcfb6d98b87c",
+  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.0/Manga-Hunter-0.6.0.apk",
+  "sha256": "7cff85ee342759c67ded7e4e846605618ea61b6a1383c0e5e46a97b3ad499e6d",
   "changelog": [
     "Объединена библиотека и читалка",
     "Добавлены пять персонажей и пять цветовых палитр",
