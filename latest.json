@@ -1,12 +1,12 @@
 {
-  "versionName": "0.6.0",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.0/Manga-Hunter-0.6.0.apk",
-  "sha256": "ee0814abb56380209446afa81995c5d779e6fa7aa0259af7a3826929f7ca80b6",
+  "versionName": "0.6.1",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.1/Manga-Hunter-0.6.1.apk",
+  "sha256": "e6d03ed49d06cf1660c43cfddf61202d064f105afe3551a392eb973514eadf95",
   "changelog": [
-    "Объединена библиотека и читалка",
-    "Добавлены пять персонажей и пять цветовых палитр",
-    "Добавлены постраничный и непрерывный режимы чтения",
-    "Добавлена проверка и установка обновлений"
+    "Добавлены пять иллюстрированных аниме-персонажей и тематические пейзажи в шапке",
+    "Исправлена работа списка глав MangaLib через актуальный API с резервным адресом",
+    "Улучшена диагностика ошибок источников и GraphQL",
+    "Сохранены настройки тем, режимы чтения и установка обновлений"
   ]
 }
