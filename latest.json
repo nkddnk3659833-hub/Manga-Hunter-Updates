@@ -2,7 +2,7 @@
   "versionName": "0.6.1",
   "versionCode": 7,
   "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.1/Manga-Hunter-0.6.1.apk",
-  "sha256": "e6d03ed49d06cf1660c43cfddf61202d064f105afe3551a392eb973514eadf95",
+  "sha256": "5d1913893236c6916340622a1a9fb85b6071897f4ff000f9447c730c3a30ac46",
   "changelog": [
     "Добавлены пять иллюстрированных аниме-персонажей и тематические пейзажи в шапке",
     "Исправлена работа списка глав MangaLib через актуальный API с резервным адресом",
