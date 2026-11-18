@@ -1,11 +1,14 @@
 {
-  "versionName": "0.6.15",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.15/Manga-Hunter-0.6.15.apk",
-  "sha256": "b1fa69680d03cd46fa91d1e5ff1e71a597b1cbf48085b091a44a415be8f192a2",
+  "versionName": "0.6.16",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.16/Manga-Hunter-0.6.16.apk",
+  "sha256": "6b4286692d730dbecb9f41835ee512f2e7b60bbcd2ecd3ecb16a9484542f6fcc",
   "changelog": [
-    "ReadManga автоматически переключает нумерованные зеркала 1.readmanga.club–10.readmanga.club при недоступности текущего",
-    "Рабочее зеркало используется в поиске, загрузке списка глав и загрузке страниц",
-    "Ссылки старых сохранённых тайтлов автоматически переводятся на выбранное зеркало"
+    "Исправлена работа ReadManga с актуальным официальным доменом a.zazaza.me и нумерованными зеркалами 1–10",
+    "Добавлен User-Agent arora, требуемый GroupLe для совместимости с ReadManga",
+    "Cookies из встроенного WebView синхронизируются с загрузчиком глав и изображений, включая переходы SSO",
+    "Из страницы каждого тайтла извлекается user_hash и добавляется параметр d к ссылкам защищённых глав",
+    "Добавлено встроенное окно входа в ReadManga и повторная загрузка глав после авторизации",
+    "Пустой список глав или страниц больше не считается успешным ответом зеркала"
   ]
 }
