@@ -2,7 +2,7 @@
   "versionName": "0.6.7",
   "versionCode": 13,
   "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.7/Manga-Hunter-0.6.7.apk",
-  "sha256": "c7c9156ed6f5dfde8a2b7f9df52f3211b7c0615d7acfa9c471fa2e98420c4727",
+  "sha256": "6bb2315371f428e8a3fbcd32d906fd839b6c3393a943e7dd98b6dd70ccc16443",
   "changelog": [
     "Восстановлен оригинальный WebP баннера певицы: теперь все 15 персонажей используют отдельные соответствующие иллюстрации",
     "Все баннеры отображаются в исходной пропорции 1200×450 без разного кадрирования на разных экранах",
