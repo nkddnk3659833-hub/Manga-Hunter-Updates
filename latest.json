@@ -1,14 +1,14 @@
 {
-  "versionName": "0.6.16",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.16/Manga-Hunter-0.6.16.apk",
-  "sha256": "6b4286692d730dbecb9f41835ee512f2e7b60bbcd2ecd3ecb16a9484542f6fcc",
+  "versionName": "0.6.17",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.17/Manga-Hunter-0.6.17.apk",
+  "sha256": "8eb71f7ff4e2c060f86d6b918e4fe6c70aef010da6bcff984322cd074c0c1240",
   "changelog": [
-    "Исправлена работа ReadManga с актуальным официальным доменом a.zazaza.me и нумерованными зеркалами 1–10",
-    "Добавлен User-Agent arora, требуемый GroupLe для совместимости с ReadManga",
-    "Cookies из встроенного WebView синхронизируются с загрузчиком глав и изображений, включая переходы SSO",
-    "Из страницы каждого тайтла извлекается user_hash и добавляется параметр d к ссылкам защищённых глав",
-    "Добавлено встроенное окно входа в ReadManga и повторная загрузка глав после авторизации",
-    "Пустой список глав или страниц больше не считается успешным ответом зеркала"
+    "ReadManga отделён от GroupLe: перебираются нумерованные .club и известные зеркала .ru/.io/.live/.me, сохраняется конечный домен после редиректа",
+    "Для старых зеркал используются Chrome User-Agent и Referer страницы манги; изображения загружаются без Referer как в проверенном загрузчике ReadManga",
+    "Исправлен разбор списка глав через .chapters a.chapter-link, а также параметры MTR и user_hash",
+    "Поддержан валидный HTML читалки с rm_h.readerInit даже если сервер главы вернул HTTP 404",
+    "Из rm_h.readerDoInit извлекаются альтернативные CDN серверы; при ошибке изображение автоматически запрашивается с другого сервера",
+    "Сохранена синхронизация cookies и встроенный вход на конечном рабочем зеркале"
   ]
 }
