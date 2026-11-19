@@ -1,9 +1,10 @@
 {
-  "versionName": "0.6.18",
-  "versionCode": 24,
-  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.18/Manga-Hunter-0.6.18.apk",
-  "sha256": "1ef6cff69c047c399309da460e9d876ea60b963d0e7ae7eacadb06dfbc64c297",
+  "versionName": "0.6.19",
+  "versionCode": 25,
+  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.19/Manga-Hunter-0.6.19.apk",
+  "sha256": "a382aa647757c256534afa884abb0ceddb4a229567a3d0ac3525ac476bf4c224",
   "changelog": [
+    "Обновлён дизайн нижней панели: плавающая полупрозрачная панель с подсветкой и отдельным оформлением активной вкладки; цвета автоматически следуют выбранной теме",
     "ReadManga отделён от GroupLe: перебираются нумерованные .club и известные зеркала .ru/.io/.live/.me, сохраняется конечный домен после редиректа",
     "Для старых зеркал используются Chrome User-Agent и Referer страницы манги; изображения загружаются без Referer как в проверенном загрузчике ReadManga",
     "Исправлен разбор списка глав через .chapters a.chapter-link, а также параметры MTR и user_hash",
