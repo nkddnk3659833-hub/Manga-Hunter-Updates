@@ -1,8 +1,8 @@
 {
-  "versionName": "0.6.26",
-  "versionCode": 32,
-  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.26/Manga-Hunter-0.6.26.apk",
-  "sha256": "3bfe582101b018b2dbd33d7ea022e8c0eb3bfe6d8aebc8ec101f3f0e089add99",
+  "versionName": "0.6.27",
+  "versionCode": 33,
+  "apkUrl": "https://github.com/nkddnk3659833-hub/Manga-Hunter-Updates/releases/download/v0.6.27/Manga-Hunter-0.6.27.apk",
+  "sha256": "9326a36586fb4b9a03234be15d0e86fdc3a4d74342fac06b0bfe62f77f91d38d",
   "changelog": [
     "Исправлено восстановление шапки библиотеки: кнопка со стрелкой плавно возвращает список к началу.",
     "Убрана лишняя рамка вокруг поиска; поле оформлено как аккуратная встроенная строка без обводки.",
